@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "benevoles",
+  "info": {
+    "singularName": "benevole",
+    "pluralName": "benevoles",
+    "displayName": "benevole"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "nom_prenom": {
+      "type": "string"
+    }
+  }
+}
